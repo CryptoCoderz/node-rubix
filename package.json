@@ -1,0 +1,30 @@
+{
+  "name": "node-rubix",
+  "description": "Communicate with rubixd via JSON-RPC",
+  "version": "1.0.3",
+  "main": "lib/index.js",
+  "keywords": [
+    "rubix",
+    "rpc"
+  ],
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lucas Buzzo",
+      "email": "lcsbzo@gmail.com",
+      "web": ""
+    },
+    {
+      "name": "Alan Rudolf",
+      "email": "@suprnurd",
+      "web": "@suprnurd"
+    }
+  ],
+  "dependencies": {
+    "deprecate": "~0.1.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/suprnurd/rubix-node-api.git"
+  }
+}
